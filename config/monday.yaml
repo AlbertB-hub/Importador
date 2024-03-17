@@ -1,0 +1,106 @@
+parameters:
+  monday.token: token
+  board.clase1.id: xxxxx
+  board.clase2.id: xxxxx
+  board.clase3.id: xxxxx
+  monday.boards.import:
+    clase3:
+      board: board.clase3
+      relations:
+        # El valor de item_type corresponde a las claves que se le atribuyen a cada item de 'boards.import'
+        main_Clase1:
+          item_type: clase1
+          property: mainClase1
+          relation_type: one
+        clase2:
+          item_type: clase2
+          property: clase2
+          relation_type: many
+        related_Clase1:
+          item_type: clase1
+          property: relatedClase1
+          relation_type: many
+  board.clase3:
+    class: App\Entity\clase3
+    context:
+      itemId: id
+      mondayId: mondayId
+      title: title
+      subItemClass: subClase
+      columns:
+        subelementos:
+          name: subClase3
+          type: subtasks
+          bag: config_sub_clase3
+        estado:
+          name: status
+          type: string
+        conectar_tableros9:
+          name: clase2
+          type: board_relation_item
+          class: Clase2
+          unique: false
+        conectar_tableros0:
+          name: area
+          type: board_relation_name
+          boardId: xxxx
+        conectar_tableros51:
+          name: thematics
+          type: board_relation_array
+          boardId: xxxx
+        conectar_tableros6:
+          name: level
+          type: board_relation_name
+          boardId: xxxx
+        conectar_tableros5:
+          name: collectives
+          type: board_relation_array
+          boardId: xxxx
+        n_meros12:
+          name: minAge
+          type: integer
+        n_meros33:
+          name: maxAge
+          type: integer
+        conectar_tableros2:
+          name: type
+          type: board_relation_name
+          boardId: xxxx
+        conectar_tableros8:
+          name: format
+          type: board_relation_name
+          boardId: xxxx
+        n_meros8:
+          name: sessions
+          type: integer
+        n_meros3:
+          name: minutes
+          type: integer
+        n_meros6:
+          name: totalDuration
+          type: integer
+        conectar_tableros3:
+          name: mainClase1
+          type: board_relation_item
+          class: Clase1
+          unique: true
+        conectar_tableros92:
+          name: relatedclase1
+          type: board_relation_item
+          class: Clase1
+          unique: false
+        conectar_tableros84:
+          name: relatedxxx
+          type: related_same
+        verificar:
+          name: forParticipants
+          type: check
+        verificar7:
+          name: forVolunteers
+          type: check
+        verificar1:
+          name: forEntities
+          type: check
+        id__de_elemento3:
+          name: mondayId
+          type: integer

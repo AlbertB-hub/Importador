@@ -1,0 +1,682 @@
+{
+  "id": "id",
+  "name": "Test IT",
+  "column_values": [
+    {
+      "column": {
+        "id": "subelementos",
+        "title": "Subelementos",
+        "type": "subtasks"
+      },
+      "id": "subelementos",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15 12:16:37 +0000\",\"linkedPulseIds\":[{\"linkedPulseId\":5857525}]}"
+    },
+    {
+      "column": {
+        "id": "id__de_elemento3",
+        "title": "Identificador",
+        "type": "item_id"
+      },
+      "id": "id__de_elemento3",
+      "text": "5857122872",
+      "value": "{\"item_id\":\"5857872\"}"
+    },
+    {
+      "column": {
+        "id": "estado",
+        "title": "Estado",
+        "type": "status"
+      },
+      "index": 2,
+      "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2024-01-15T12:23:43.932Z\"}",
+      "id": "estado",
+      "text": "Error"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros9",
+        "title": "Proyecto",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros9",
+      "display_value": "01-23-xxx",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:22.787Z\",\"linkedPulseIds\":[{\"linkedPulseId\":4019846}]}"
+    },
+    {
+      "column": {
+        "id": "reflejo4",
+        "title": "Reflejo",
+        "type": "mirror"
+      },
+      "id": "reflejo4",
+      "text": null,
+      "value": null
+    },
+    {
+      "column": {
+        "id": "conectar_tableros0",
+        "title": "Ámbito",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros0",
+      "display_value": "Nacional",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:25.930Z\",\"linkedPulseIds\":[{\"linkedPulseId\":402038}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros51",
+        "title": "Temáticas",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros51",
+      "display_value": "Otras",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:30.309Z\",\"linkedPulseIds\":[{\"linkedPulseId\":411531}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros6",
+        "title": "Nivel",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros6",
+      "display_value": "Básico",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:33.946Z\",\"linkedPulseIds\":[{\"linkedPulseId\":40981249}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros5",
+        "title": "Colectivos",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros5",
+      "display_value": "xxx",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:40.904Z\",\"linkedPulseIds\":[{\"linkedPulseId\":4021735}]}"
+    },
+    {
+      "column": {
+        "id": "n_meros12",
+        "title": "Edad min",
+        "type": "numbers"
+      },
+      "id": "n_meros12",
+      "text": "1",
+      "value": "\"1\""
+    },
+    {
+      "column": {
+        "id": "n_meros33",
+        "title": "Edad máx",
+        "type": "numbers"
+      },
+      "id": "n_meros33",
+      "text": "100",
+      "value": "\"100\""
+    },
+    {
+      "column": {
+        "id": "conectar_tableros2",
+        "title": "Tipo",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros2",
+      "display_value": "Otro",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:54.143Z\",\"linkedPulseIds\":[{\"linkedPulseId\":407720}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros8",
+        "title": "Formato",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros8",
+      "display_value": "Mixto",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:15:58.681Z\",\"linkedPulseIds\":[{\"linkedPulseId\":403408}]}"
+    },
+    {
+      "column": {
+        "id": "n_meros8",
+        "title": "Sesiones",
+        "type": "numbers"
+      },
+      "id": "n_meros8",
+      "text": "1",
+      "value": "\"1\""
+    },
+    {
+      "column": {
+        "id": "n_meros3",
+        "title": "Minutos",
+        "type": "numbers"
+      },
+      "id": "n_meros3",
+      "text": "60",
+      "value": "\"60\""
+    },
+    {
+      "column": {
+        "id": "n_meros6",
+        "title": "Duración total",
+        "type": "numbers"
+      },
+      "id": "n_meros6",
+      "text": "60",
+      "value": "\"60\""
+    },
+    {
+      "column": {
+        "id": "conectar_tableros3",
+        "title": "Digcom",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros3",
+      "display_value": "EA1C2NB1",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:16:18.395Z\",\"linkedPulseIds\":[{\"linkedPulseId\":4089733}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros92",
+        "title": "Digcom relacionados",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros92",
+      "display_value": "EA1C2NB1",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:16:20.397Z\",\"linkedPulseIds\":[{\"linkedPulseId\":4609733}]}"
+    },
+    {
+      "column": {
+        "id": "conectar_tableros84",
+        "title": "Actividad relacionada",
+        "type": "board_relation"
+      },
+      "id": "conectar_tableros84",
+      "display_value": "Aprende sobre Facebook",
+      "text": null,
+      "value": "{\"changed_at\":\"2024-01-15T12:16:24.780Z\",\"linkedPulseIds\":[{\"linkedPulseId\":4107164}]}"
+    },
+    {
+      "column": {
+        "id": "verificar",
+        "title": "Para participantes",
+        "type": "checkbox"
+      },
+      "id": "verificar",
+      "text": "v",
+      "value": "{\"checked\":true,\"changed_at\":\"2024-01-15T12:16:28.074Z\"}"
+    },
+    {
+      "column": {
+        "id": "verificar7",
+        "title": "Para xxx",
+        "type": "checkbox"
+      },
+      "id": "verificar7",
+      "text": "v",
+      "value": "{\"checked\":true,\"changed_at\":\"2024-01-15T12:16:29.111Z\"}"
+    },
+    {
+      "column": {
+        "id": "verificar1",
+        "title": "Para entidades",
+        "type": "checkbox"
+      },
+      "id": "verificar1",
+      "text": "v",
+      "value": "{\"checked\":true,\"changed_at\":\"2024-01-15T12:16:29.992Z\"}"
+    }
+  ],
+  "subitems": [
+    {
+      "id": "580525",
+      "name": "Español",
+      "column_values": [
+        {
+          "id": "id__de_elemento",
+          "column": {
+            "id": "id__de_elemento",
+            "title": "Id. de elemento",
+            "type": "item_id"
+          },
+          "value": "{\"item_id\":\"585715\"}",
+          "text": "5850525"
+        },
+        {
+          "id": "estado_146",
+          "column": {
+            "id": "estado_146",
+            "title": "Tipo",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Formación",
+          "value": null
+        },
+        {
+          "id": "estado",
+          "column": {
+            "id": "estado",
+            "title": "Estado",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "texto_largo",
+          "column": {
+            "id": "texto_largo",
+            "title": "Slug",
+            "type": "long_text"
+          },
+          "value": "{\"text\":\"test-it\",\"changed_at\":\"2024-01-15T12:16:51.062Z\"}",
+          "text": "test-it"
+        },
+        {
+          "id": "archivo9",
+          "column": {
+            "id": "archivo9",
+            "title": "img .avif (640x425)",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"Captura de pantalla 2024-01-15 a las 9.17.36.png\",\"assetId\":1218862614,\"isImage\":\"true\",\"fileType\":\"ASSET\",\"createdAt\":1705321019163,\"createdBy\":\"430115\"}]}",
+          "text": "https://xxx.monday.com/protected_static/13871038/resources/1262614/Captura%20de%20pantalla%202024-01-15%20a%20las%209.17.36.png"
+        },
+        {
+          "id": "texto",
+          "column": {
+            "id": "texto",
+            "title": "Título",
+            "type": "text"
+          },
+          "value": "\"test\"",
+          "text": "test"
+        },
+        {
+          "id": "texto4",
+          "column": {
+            "id": "texto4",
+            "title": "Descripción",
+            "type": "long_text"
+          },
+          "value": "{\"text\":\"test test\",\"changed_at\":\"2024-01-15T12:17:09.565Z\"}",
+          "text": "test test"
+        },
+        {
+          "id": "etiquetas0",
+          "column": {
+            "id": "etiquetas0",
+            "title": "Tags",
+            "type": "tags"
+          },
+          "tag_ids": [
+            17917861
+          ],
+          "text": "móvil",
+          "value": "{\"tag_ids\":[17861]}"
+        },
+        {
+          "id": "etiquetas",
+          "column": {
+            "id": "etiquetas",
+            "title": "Tags Ficha web",
+            "type": "tags"
+          },
+          "tag_ids": [],
+          "text": "",
+          "value": null
+        },
+        {
+          "id": "enlace",
+          "column": {
+            "id": "enlace",
+            "title": "Drive Ficha web",
+            "type": "link"
+          },
+          "value": "{\"url\":\"https://docs.google.com/document/d/1duwbydzpJ3x_6aQhfT40JP8hgj8IZIo_AgwWsHaH8/edit\",\"text\":\"Google Docs\"}",
+          "text": "Google Docs - https://docs.google.com/doment/d/1duwHUydzpJ3x_6aQhfT40JP8hgIZIo_AgwWsHaH8/edit"
+        },
+        {
+          "id": "estado_14",
+          "column": {
+            "id": "estado_14",
+            "title": "Ficha web",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "workdoc_de_monday",
+          "column": {
+            "id": "workdoc_de_monday",
+            "title": "Ficha web",
+            "type": "doc"
+          },
+          "value": "{\"files\":[{\"name\":\"Sin título\",\"fileId\":\"3d3e0ea1-c418-53456c-7bb78a2d775d\",\"isImage\":\"false\",\"fileType\":\"MONDAY_DOC\",\"objectId\":580316,\"createdAt\":1705321095865,\"createdBy\":\"4015\",\"linkToFile\":\"https://xxx.monday.com/docs/58316\"}]}",
+          "text": ""
+        },
+        {
+          "id": "verificar8",
+          "column": {
+            "id": "verificar8",
+            "title": "Dest particulares",
+            "type": "checkbox"
+          },
+          "value": "{\"checked\":true,\"changed_at\":\"2024-01-15T12:18:20.280Z\"}",
+          "text": "v"
+        },
+        {
+          "id": "verificar6",
+          "column": {
+            "id": "verificar6",
+            "title": "Dest. entidades",
+            "type": "checkbox"
+          },
+          "value": "{\"checked\":false}",
+          "text": ""
+        },
+        {
+          "id": "verificar41",
+          "column": {
+            "id": "verificar41",
+            "title": "Dest aprende a tu ritmo",
+            "type": "checkbox"
+          },
+          "value": "{\"checked\":false}",
+          "text": ""
+        },
+        {
+          "id": "enlace94",
+          "column": {
+            "id": "enlace94",
+            "title": "Link review360",
+            "type": "link"
+          },
+          "value": "{\"url\":\"https://360.articulateontent/a1cee345-99d9-44c6-82e3-058e0deb2be2/review\",\"text\":\"https://360.articulate.com/review/co4c6-82e3-058e0deb2be2/review\"}",
+          "text": "https://360.articulate.com/review/content/a1cee38e0deb2be2/review"
+        },
+        {
+          "id": "archivo0",
+          "column": {
+            "id": "archivo0",
+            "title": "SCORM 1.2 ZIP",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"busqueda-de-empleo-en-internet-scorm12-N2H08x3z.zip\",\"assetId\":1218866986,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705321186039,\"createdBy\":\"40115\"}]}",
+          "text": "https://xxx.monday.com/protec_static/1387103squeda-de-empleo-en-internet-scorm12H08x3z.zip"
+        },
+        {
+          "id": "estado_15",
+          "column": {
+            "id": "estado_15",
+            "title": "Presentación",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "archivo",
+          "column": {
+            "id": "archivo",
+            "title": "Presentación",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"Storytelling_Digital_con_TikTok 16-17_2024.ppalse\",\"fileType\":\"ASSET\",\"createdAt\":170520463,\"createdBy\":\"5\"}]}",
+          "text": "https://xxx.monday.com/protected_sta218868017/Storytelling_Digital_con_TikTok%2016-17_2024.pptx-1.pdf"
+        },
+        {
+          "id": "fecha6",
+          "column": {
+            "id": "fecha6",
+            "title": "Fecha Presentación",
+            "type": "date"
+          },
+          "value": "{\"date\":\"2024-01-15\",\"changed_at\":\"2024-01-15T12:20:23.121Z\"}",
+          "text": "2024-01-15"
+        },
+        {
+          "id": "estado_19",
+          "column": {
+            "id": "estado_19",
+            "title": "Guia",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "archivo4",
+          "column": {
+            "id": "archivo4",
+            "title": "Guía (PDF)",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"guia_Storytellingdigital_conTikTok_16-17_2024.pdf\",\"assetId\":1218867337,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705321193970,\"createdBy\":\"15\"}]}",
+          "text": "https://xxx.monday.com/protected_static/13871038/resource24.pdf"
+        },
+        {
+          "id": "fecha",
+          "column": {
+            "id": "fecha",
+            "title": "Fecha Guía",
+            "type": "date"
+          },
+          "value": "{\"date\":\"2024-01-15\",\"changed_at\":\"2024-01-15T12:20:05.809Z\"}",
+          "text": "2024-01-15"
+        },
+        {
+          "id": "estado_1",
+          "column": {
+            "id": "estado_1",
+            "title": "Mini guía",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editanto",
+          "value": null
+        },
+        {
+          "id": "archivo6",
+          "column": {
+            "id": "archivo6",
+            "title": "Mini guía (PDF)",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"Miniguía Administración Electrónica.pptx.pdf\",\"assetId\":1218867592,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705321202866,\"createdBy\":\"45\"}]}",
+          "text": "https://xxx.monday.com/protected_sta13871038/resources/1218B3nica.pptx.pdf"
+        },
+        {
+          "id": "fecha4",
+          "column": {
+            "id": "fecha4",
+            "title": "Fecha Mini guía",
+            "type": "date"
+          },
+          "value": "{\"date\":\"2024-01-15\",\"changed_at\":\"2024-01-15T12:20:08.660Z\"}",
+          "text": "2024-01-15"
+        },
+        {
+          "id": "color",
+          "column": {
+            "id": "color",
+            "title": "Montaje Moodle",
+            "type": "status"
+          },
+          "index": null,
+          "text": "No Aplica",
+          "value": null
+        },
+        {
+          "id": "enlace9",
+          "column": {
+            "id": "enlace9",
+            "title": "Moodle",
+            "type": "link"
+          },
+          "value": "{\"url\":\"https://e-learning.xxx.org/course/view.php?id=3\",\"text\":\"https://e-learning.xxx.org/course/view.php?id=3\"}",
+          "text": "https://e-learning.xxx.org/course/view.php?id=3"
+        },
+        {
+          "id": "dup__of_moodle1",
+          "column": {
+            "id": "dup__of_moodle1",
+            "title": "Cuestionario (EXCEL)",
+            "type": "link"
+          },
+          "value": "{\"url\":\"https://docs.google.com/spreadsheets/d/1oB1npYeJtYyIpyijYmMCZXE7TcbQBw0/edit\",\"text\":\"https://docs.google.com/spreadsheets/d/1oB1lHOt1oOWIpyijYmMCZXE7TcbQBw0/edit\"}",
+          "text": "https://docs.google.com/spreadsheets/d/1oB1npYeJtYyKMVzjYmMCZXE7TcbQBw0/edit"
+        },
+        {
+          "id": "archivo83",
+          "column": {
+            "id": "archivo83",
+            "title": "Cuestionario (XML)",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"Bateria de preguntas LMS v1(2).xml\",\"assetId\":1218874043,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705321348591,\"createdBy\":\"\"}]}",
+          "text": "https://xxx.monday.com/protected_static/1038/resources/1218874043/Baterntas%20LMS%20v1(2).xml"
+        },
+        {
+          "id": "file",
+          "column": {
+            "id": "file",
+            "title": "SCORM 1.2 ZIP",
+            "type": "file"
+          },
+          "files": [],
+          "value": null,
+          "text": ""
+        },
+        {
+          "id": "dup__of_moodle",
+          "column": {
+            "id": "dup__of_moodle",
+            "title": "Link review360",
+            "type": "link"
+          },
+          "value": null,
+          "text": ""
+        },
+        {
+          "id": "estado_17",
+          "column": {
+            "id": "estado_17",
+            "title": "StoryLine360",
+            "type": "status"
+          },
+          "index": 1,
+          "text": "Finalizado",
+          "value": "{\"index\":1,\"post_id\":null,\"changed_at\":\"2024-01-16T08:53:41.898Z\"}"
+        },
+        {
+          "id": "archivo60",
+          "column": {
+            "id": "archivo60",
+            "title": "StoryLine360 (ZIP)",
+            "type": "file"
+          },
+          "files": [
+            []
+          ],
+          "value": "{\"files\":[{\"name\":\"01.Nivel básico.zip\",\"assetId\":,\"isImage\":\"false\",\"fileType\":\"ASSET\",\"createdAt\":1705395274440,\"createdBy\":\"\"}]}",
+          "text": "https://xxx.monday.com/protected_static/13871038/resources/1220996040/0%A1sico.zip"
+        },
+        {
+          "id": "fecha2",
+          "column": {
+            "id": "fecha2",
+            "title": "Fecha StoryLine360",
+            "type": "date"
+          },
+          "value": "{\"date\":\"2024-01-16\",\"changed_at\":\"2024-01-16T08:54:36.854Z\"}",
+          "text": "2024-01-16"
+        },
+        {
+          "id": "estado_158",
+          "column": {
+            "id": "estado_158",
+            "title": "Certificado",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "archivo8",
+          "column": {
+            "id": "archivo8",
+            "title": "Certificado (DOC)",
+            "type": "file"
+          },
+          "files": [],
+          "value": null,
+          "text": ""
+        },
+        {
+          "id": "fecha7",
+          "column": {
+            "id": "fecha7",
+            "title": "Fecha Certificado",
+            "type": "date"
+          },
+          "value": null,
+          "text": ""
+        },
+        {
+          "id": "intranet",
+          "column": {
+            "id": "intranet",
+            "title": "Intranet",
+            "type": "status"
+          },
+          "index": null,
+          "text": "Editando",
+          "value": null
+        },
+        {
+          "id": "fecha48",
+          "column": {
+            "id": "fecha48",
+            "title": "Fecha Intranet",
+            "type": "date"
+          },
+          "value": null,
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
